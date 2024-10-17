@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DivideByZero": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
